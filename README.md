@@ -1,4 +1,4 @@
-# 💻 CS Quiz App
+# 💻 Quizzy-quizz app
 
 An interactive, dark-themed quiz app designed for Computer Science students to test their knowledge! Built with pure HTML, CSS, and JavaScript — no frameworks, no libraries, just clean, fast, and responsive UI.
 
@@ -16,5 +16,16 @@ An interactive, dark-themed quiz app designed for Computer Science students to t
 - **HTML5**
 - **CSS3 (Dark UI)**
 - **Vanilla JavaScript**
+
+  ## ✅ How to Run
+
+1. Clone or download this repo.
+2. Open the folder.
+3. Double-click `index.html` (or open it in your browser).
+
+## 📷 Preview
+
+![image](https://github.com/user-attachments/assets/d87b2634-3294-4a0c-9f1b-26fa9a93b15b)
+
 
 
