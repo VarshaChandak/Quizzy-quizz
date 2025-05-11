@@ -25,7 +25,8 @@ An interactive, dark-themed quiz app designed for Computer Science students to t
 
 ## 📷 Preview
 
-![image](https://github.com/user-attachments/assets/d87b2634-3294-4a0c-9f1b-26fa9a93b15b)
+<img src="https://github.com/user-attachments/assets/d87b2634-3294-4a0c-9f1b-26fa9a93b15b" alt="image" width="500" height="auto">
+
 
 
 
